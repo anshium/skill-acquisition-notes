@@ -1,0 +1,16 @@
+dataset papers shared - no specific order
+robocasa maniskill
+
+deepak pathak
+
+model based
+
+model free 
+
+state based
+
+open ai gym things
+
+sim first
+
+sapian, issac 
